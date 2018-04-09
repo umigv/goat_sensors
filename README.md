@@ -8,7 +8,7 @@ Creating a repository with all packages as submodules allows us to speed up depl
 
 ## Installation
 
-Clone this repository into your `catkin` workspace, then run `catkin_make_isolated --install` and `source install_isolated/setup.bash`.
+Clone this repository into your `catkin` workspace, then run `git submodule init` and `git submodule update`. Finally, run `catkin_make_isolated --install` and `source install_isolated/setup.bash`.
 
 ## Contributors
 
