@@ -1,0 +1,30 @@
+[submodule "nmea_navsat_driver"]
+	path = nmea_navsat_driver
+	url = git@github.com:umigv/nmea_navsat_driver.git
+[submodule "arduino_teleop"]
+	path = arduino_teleop
+	url = git@github.com:umigv/arduino_teleop.git
+[submodule "goat_launch"]
+	path = goat_launch
+	url = git@github.com:umigv/goat_launch.git
+[submodule "Teleoperation"]
+	path = Teleoperation
+	url = git@github.com:umigv/Teleoperation.git
+[submodule "transform_imu"]
+	path = transform_imu
+	url = git@github.com:umigv/transform_imu.git
+[submodule "obstacle-detector"]
+	path = obstacle-detector
+	url = git@github.com:umigv/obstacle-detector.git
+[submodule "phidgets_encoder"]
+	path = phidgets_encoder
+	url = git@github.com:umigv/phidgets_encoder.git
+[submodule "umigv_utilities"]
+	path = umigv_utilities
+	url = git@github.com:umigv/umigv_utilities.git
+[submodule "goat_description"]
+	path = goat_description
+	url = git@github.com:umigv/goat_description.git
+[submodule "encoder_odometry"]
+	path = encoder_odometry
+	url = git@github.com:umigv/encoder_odometry.git
