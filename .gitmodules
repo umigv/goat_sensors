@@ -28,3 +28,6 @@
 [submodule "encoder_odometry"]
 	path = encoder_odometry
 	url = git@github.com:umigv/encoder_odometry.git
+[submodule "goat_msgs"]
+	path = goat_msgs
+	url = git@github.com:umigv/goat_msgs.git
